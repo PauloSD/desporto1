@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,PT: SPORT TV1 HD
-h<iframe src="http://www.desportogratis.com/1.html" height="450" width="670" scrolling="no" border="0" frameborder="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="http://www.desportogratis.com/1.html" height="450" width="670" scrolling="no" border="0" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 
 #EXTINF:-1,PT: SPORT TV2
 http://188.165.142.253:8000/…/tvonline…/iptv-solution/431.ts
