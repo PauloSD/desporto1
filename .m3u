@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0, [COLOR yellow]--Portuguese--[/COLOR] 
+http://0.0.0.0
+
+#EXTINF:0 tvg-logo="http://goo.gl/W4Rgac" group-title="Portugal", SPORT TV 1
+http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/31.ts
+
+#EXTINF:0 tvg-logo="http://goo.gl/W4Rgac" group-title="Portugal", SPORT TV 2
+http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/56.ts
+
+#EXTINF:0 tvg-logo="http://goo.gl/W4Rgac" group-title="Portugal", SPORT TV 3
+http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/57.ts
+
+#EXTINF:0 tvg-logo="http://goo.gl/W4Rgac" group-title="Portugal", SPORT TV 4
+http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/58.ts
+
+#EXTINF:0 tvg-logo="http://goo.gl/W4Rgac" group-title="Portugal", SPORT TV 5
+http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/55.ts
+
+#EXTINF:0 tvg-logo="http://goo.gl/o8sxsX" group-title="Portugal", BTV 1
+http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/53.ts
