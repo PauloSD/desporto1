@@ -2,20 +2,40 @@
 #EXTINF:0, [COLOR yellow]--Portuguese--[/COLOR] 
 http://0.0.0.0
 
-#EXTINF:0 tvg-logo="http://goo.gl/W4Rgac" group-title="Portugal", SPORT TV 1
+#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/_CLCk2ffFCuI/TE23_yzUlpI/AAAAAAAAAWs/JVgYkD21YNI/s1600/sport_tv.jpg" group-title="Portugal", SPORT TV 1
 http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/31.ts
 
-#EXTINF:0 tvg-logo="http://goo.gl/W4Rgac" group-title="Portugal", SPORT TV 2
+#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/_CLCk2ffFCuI/TE23_yzUlpI/AAAAAAAAAWs/JVgYkD21YNI/s1600/sport_tv.jpg" group-title="Portugal", SPORT TV 2
 http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/56.ts
 
-#EXTINF:0 tvg-logo="http://goo.gl/W4Rgac" group-title="Portugal", SPORT TV 3
+#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/_CLCk2ffFCuI/TE23_yzUlpI/AAAAAAAAAWs/JVgYkD21YNI/s1600/sport_tv.jpg" group-title="Portugal", SPORT TV 3
 http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/57.ts
 
-#EXTINF:0 tvg-logo="http://goo.gl/W4Rgac" group-title="Portugal", SPORT TV 4
+#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/_CLCk2ffFCuI/TE23_yzUlpI/AAAAAAAAAWs/JVgYkD21YNI/s1600/sport_tv.jpg" group-title="Portugal", SPORT TV 4
 http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/58.ts
 
-#EXTINF:0 tvg-logo="http://goo.gl/W4Rgac" group-title="Portugal", SPORT TV 5
+#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/_CLCk2ffFCuI/TE23_yzUlpI/AAAAAAAAAWs/JVgYkD21YNI/s1600/sport_tv.jpg" group-title="Portugal", SPORT TV 5
 http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/55.ts
+
+#EXTINF:0 tvg-logo="https://sites.google.com/site/sitetvemdireto/_/rsrc/1432861699584/canais/sport%20tv%20americas.png" group-title="Portugal", SPORT TV AMERICA
+http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/53.ts
 
 #EXTINF:0 tvg-logo="http://goo.gl/o8sxsX" group-title="Portugal", BTV 1
 http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/53.ts
+
+#EXTINF:0 tvg-logo="http://www.movenoticias.com/wp-content/uploads/2015/10/A-Quinta-850x478.jpg" group-title="Portugal", A QUINTA
+http://188.165.142.253:8000/…/tvonline…/iptv-solution/459.ts
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="Portugal", Disney JR
+http://188.165.142.253:8000/…/tvonline…/iptv-solution/464.ts
+
+#EXTINF:0 tvg-logo="http://mb.web.sapo.io/1/0/2/8c10cca436228677d10be1cb5d21794e2464a.jpg" group-title="Portugal", CMTV
+http://188.165.142.253:8000/…/tvonline…/iptv-solution/467.ts
+
+#EXTINF:0 tvg-logo="http://www.movenoticias.com/wp-content/uploads/2015/10/21269795073_33032b74e8_z-640x452.jpg" group-title="Portugal", RTP 3
+http://188.165.142.253:8000/…/tvonline…/iptv-solution/456.ts
+
+#EXTINF:0 tvg-logo="http://www.movenoticias.com/wp-content/uploads/2016/01/Log%C3%B3tipo-Porto-Canal-850x601.png" group-title="Portugal", Porto canal
+http://188.165.142.253:8000/…/tvonline…/iptv-solution/455.ts
+
+
